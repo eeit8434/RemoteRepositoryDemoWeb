@@ -9,5 +9,6 @@
 <body>
 <h1>This is a new Feature</h1>
 <h1>This is another new Feature</h1>
+<h3><a href="http://localhost:7080/DemoWeb/TestServlet">TestServlet</a></h3>
 </body>
 </html>
