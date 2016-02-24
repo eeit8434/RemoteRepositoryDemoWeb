@@ -3,12 +3,12 @@
   <display-name>Web</display-name>
   
   <servlet>
-  <servlet-name>TestServlet1</servlet-name>
+  <servlet-name>TestServlet</servlet-name>
   <servlet-class>view.TestServlet</servlet-class>
   </servlet>
   <servlet-mapping>
-  <servlet-name>TestServlet1</servlet-name>
-  <url-pattern>/function/test.view</url-pattern>
+  <servlet-name>TestServlet</servlet-name>
+  <url-pattern>/test.view</url-pattern>
   </servlet-mapping>
   <welcome-file-list>
     <welcome-file>index.html</welcome-file>
